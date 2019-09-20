@@ -6,7 +6,7 @@ import java.util.Set;
 import com.nus.iss.eatngreet.booking.entity.ItemEntity;
 
 import lombok.Data;
-
+/*added comment just to trigger build*/
 @Data
 public class ConsumerOrderResponseDto {
 	private Long consumerId;
